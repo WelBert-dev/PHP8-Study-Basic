@@ -111,7 +111,7 @@
 		// trim($valor) = elimina espaços no começo e no fim de uma string (serve também para \n <br> e etc..)
 		// stripslashes($valor) = elimina as barras de uma string
 		// htmlspecialchars($valor) = elimina caracteres especiais de uma string 
-
+ 
 
  ?>
 
