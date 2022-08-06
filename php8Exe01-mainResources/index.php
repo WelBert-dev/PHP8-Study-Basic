@@ -82,7 +82,7 @@
 			// $_SERVER['REMOTE_ADDR'] = retorna o endereço ip do host que requisitou.
 			// $_SERVER['HTTP_USER_AGENT'] = retorna variais informações do host que requisitou (Navegador, S.O, Arquitetura...)
 
-		//$_REQUEST referência: https://www.w3schools.com/php/php_superglobals_request.asp
+		//$_REQUEST referência: https://www.w3schools.com/php/php_superglobals_request.asp 
 			//Conceito:
 
 		//$_POST referência: https://www.w3schools.com/php/php_superglobals_post.asp
